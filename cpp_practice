@@ -1,0 +1,50 @@
+1. Create a structure called student to store the student’s details such as name, dept, current CGPA. 
+   Define a pre-processor macro with max no of students. Create an array of student structure with max student as array size. 
+   Create a function called "Add" that will add the students details in the array. 
+   Create a function called "Remove” that will remove the students in the array. 
+   Create a function called "Print" to print all the details of all the students. 
+2. Write a program to delete all duplicate elements from an array. 
+3. Write a program to merge two sorted arrays. 
+4. Write a program to Add two matrices. 
+5. Write a program to print hollow pyramid star pattern. 
+6. Write a program to create an Array of objects. 
+7. Write a program to find the largest element in the array. 
+8. Program to illustrate Order of Constructor Invocation 
+9. Program to illustrate Order of Destructor Invocation with/without Virtual keyword. 
+10. Program to demonstrate Constructor Overloading 
+11. Program to illustrates the use of Constructors in single inheritance. 
+12. Program to Compare Two Strings using operator Overloading "=". 
+13. Write programs to demonstrate the below: 
+    a. Copy constructor 
+    b. Constructor with member initialization list 
+    c. Shallow copy and Deep copy 
+    d. Parameterized constructor with Dynamic initialization 
+14. Program to demonstrate run-time polymorphism. 
+15. Program to illustrate the use of pure virtual function in Polymorphism. 
+16. Program to illustrates the use of Virtual base class.  
+17. Program to illustrate Abstract Base Class. 
+18. Program to illustrate an example of Pure Virtual functions. 
+19. Find all the occurrences of a word in a file and replace it with another word. 
+20. Write a program to count a number of words and characters in a file. 
+21. Write a program to delete a specific line from a file. 
+22. Allocate memory in one thread and free in another by using signal handlers. 
+23. Find the number of vowels, consonants, digits and white spaces in the given set of strings. 
+24. Check whether two Strings are anagram of each other. 
+25. Check if the string is palindrome. 
+26. Find the day, month and year from the input string DD/MM/YY. 
+27. Write a program to use function pointers to call callbacks in synchronous way. 
+28. Write a program to use function pointers to call callbacks in asynchronous way.
+29. Write a program to raise an exception of below categories and catch it. 
+Exception          
+ Description 
+• std::bad_alloc         This exception is thrown by a new keyword. 
+• std::bad_cast          This is an exception thrown by dynamic_cast. 
+• std::bad_exception     A useful device for handling unexpected exceptions in C++ programs. 
+• std::bad_typeid        An exception thrown by typeid.    
+• std::logic_error       This exception is theoretically detectable by reading code. 
+• std::invalid_argument  An exception thrown for using invalid arguments. 
+• std::length_error      An exception thrown after creating a big std::string.
+• std::out_of_range      Thrown by at method. 
+• std::overflow_error    This exception is thrown after the occurrence of a mathematical overflow.
+• std::range_error       This exception is thrown when you attempt to store an out-of range value.C3 
+• std::underflow_error   An exception thrown after the occurrence of mathematical underflow 
